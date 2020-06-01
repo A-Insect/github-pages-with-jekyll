@@ -1,3 +1,8 @@
+---
+title: "FIRST-POETRY"
+date: 2020-06-01
+---
+
 # 劝学诗/偶成
 &emsp;&emsp;*宋/朱熹*
 ---
